@@ -22,3 +22,6 @@
 [submodule "history-search-multi-word/external"]
 	path = history-search-multi-word/external
 	url = https://github.com/zdharma/history-search-multi-word.git
+[submodule "forgit/external"]
+	path = forgit/external
+	url = https://github.com/wfxr/forgit.git
